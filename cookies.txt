@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+opencoursehub.online	TRUE	/	FALSE	1999999999	sessionid	1|mickshkzo1ho4gmuc471wlen1p3q49nt|7WFpoiYvuXYo|ImE4MzM3Yjc4ZmYyNDQ0ZGM2OTIyYThiYWM1OTA3N2UzNDRjYzJhM2M2ODQ2YTBiZjA2OThjYWZjZTNlYTI5NWYi:1sQMeB:vUOAsB8sBUxDHk6I6Dz323BYbO3GymkXS5tal2pXHUI
+opencoursehub.online	TRUE	/	FALSE	1999999999	csrftoken	lZ1vHMfAjDId4uRrCgEAdwbMTRSuZuIp
+opencoursehub.online	TRUE	/	FALSE	1999999999	SameSite	Lax
+

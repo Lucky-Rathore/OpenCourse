@@ -17,13 +17,15 @@
             "name": "Free Education Platform",
             "description": "An open platform that aggregates top university courses and provides free certificates to learners. The platform focuses on accessibility, quality content, and community-driven learning.",
             "webpageUrl": {
-                "url": "https://opencoursehub.online/"                
+                "url": "https://opencoursehub.online/"
+                
             },
             "repositoryUrl": {
-                "url": "https://github.com/OpenCourses/"
+                "url": "https://github.com/Lucky-Rathore/OpenCourse"
             },
             "licenses": ["spdx:GPL-3.0-only"],
-            "tags": ["education", "free-courses", "edtech", "online-learning", "certifications", "data-science", "web-development"]
+            "tags": ["education", "free-courses", "edtech", "online-learning", "certifications", "data-science", 
+            "web-development"]
         }
     ],
     "funding": {

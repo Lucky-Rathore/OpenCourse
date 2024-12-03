@@ -1,0 +1,63 @@
+{
+    "version": "v1.0.0",
+    "entity": {
+        "type": "individual",
+        "role": "owner",
+        "name": "Open Course",
+        "email": "luckyrathore03@gmail.com",
+        "phone": "+917769940498",
+        "description": "Open Courses is an EdTech startup offering free, high-quality courses and certificates based on top university content from institutions like MIT, Stanford, and Harvard. We aim to make world-class education accessible to everyone.",
+        "webpageUrl": {
+            "url": "https://opencoursehub.online"
+        }
+    },
+    "projects": [
+        {
+            "guid": "57583fdb-72da-494b-bd0b-abb4952f9271",
+            "name": "Free Education Platform",
+            "description": "An open platform that aggregates top university courses and provides free certificates to learners. The platform focuses on accessibility, quality content, and community-driven learning.",
+            "webpageUrl": {
+                "url": "https://opencoursehub.online/"                
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/OpenCourses/"
+            },
+            "licenses": ["spdx:GPL-3.0-only"],
+            "tags": ["education", "free-courses", "edtech", "online-learning", "certifications", "data-science", "web-development"]
+        }
+    ],
+    "funding": {
+        "channels": [
+            {
+                "guid": "717b90a1-2f5f-4924-a822-6497bda53abc",
+                "type": "payment-provider"
+            },
+            {
+                "guid": "bfafdaee-0299-4d9a-a97f-af1f9bde8793",
+                "type": "bank"
+            }
+        ],
+        "plans": [
+            {
+                "guid": "cc24431f-b096-4334-802d-976a123bd111",
+                "status": "active",
+                "name": "Monthly Support Plan",
+                "description": "Contribute monthly to help us maintain and grow the platform.",
+                "amount": 70000,
+                "currency": "INR",
+                "frequency": "monthly",
+                "channels": ["717b90a1-2f5f-4924-a822-6497bda53abc", "bfafdaee-0299-4d9a-a97f-af1f9bde8793"]
+            }
+        ],
+        "history": [
+            {
+                "year": 2024,
+                "income": 0,
+                "expenses": 0,
+                "taxes": 0,
+                "currency": "INR",
+                "description": "Initial funding and operational costs for the launch year."
+            }
+        ]
+    }
+}
